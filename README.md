@@ -1,7 +1,7 @@
 # CriminalOps - Criminal Management System Software
 
 <p float="left">
-<img src="https://github.com/Aditya-Kumar-Dwivedi/Criminal-management-system-main/images/ncr_logo.jpeg" alt="drawing" width="200" height="200">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/CriminalOps/Criminal-management-system-main/images/ncr_logo.jpeg" alt="drawing" width="200" height="200">
 </p>
 ![CriminalOps Logo](/path/to/logo.png)
 
