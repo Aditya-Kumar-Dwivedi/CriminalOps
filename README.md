@@ -29,8 +29,8 @@ CriminalOps is a powerful Criminal Management System Software developed using Py
 
 _Include screenshots of your website pages here_
 <p float="left">
-<img src="https://github.com/Aditya-Kumar-Dwivedi/CriminalOps/blob/main/Criminal-management-system-main/images/login.png" alt="drawing" width="300" height="500">
-<img src="https://github.com/Aditya-Kumar-Dwivedi/CriminalOps/blob/main/Criminal-management-system-main/images/main.png" alt="drawing" width="300" height="500">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/CriminalOps/blob/main/Criminal-management-system-main/images/login.png" alt="drawing" width="500" height="500">
+<img src="https://github.com/Aditya-Kumar-Dwivedi/CriminalOps/blob/main/Criminal-management-system-main/images/main.png" alt="drawing" width="500" height="500">
 </p>
 
 ## Installation
