@@ -9,7 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -22,6 +21,7 @@ CriminalOps is a powerful Criminal Management System Software developed using Py
 - Easy-to-use functions to manage criminal records.
 - Seamless integration with MySQL for robust database management.
 - Intuitive design to ensure efficient data entry and retrieval.
+- **Image Handling**: Utilizes the powerful Python Imaging Library (Pillow) for image processing and displaying images in the application.
 
 ## Screenshots
 
@@ -34,8 +34,51 @@ _Include screenshots of your website pages here_
 ```bash
 git clone https://github.com/yourusername/CriminalOps.git
 
-Change to the project directory:
+
+
+2.Change to the project directory:
+
+```bash
+cd CriminalOps
+
+3.Install the required dependencies (Ensure you have Python and pip installed):
+
+'''bash
+pip install tkinter
+'''bash
+pip install mysql-connector-python
+'''
+pip install pillow
+
+## Usage
+
+1. Set up your MySQL database. Make sure you have the necessary credentials and permissions.
+
+2. Update the database configuration :
+
+```python
+# database configuration
+
+DB_HOST = "your_database_host"
+DB_USER = "your_database_user"
+DB_PASSWORD = "your_database_password"
+DB_NAME = "your_database_name"
+
+
+# Run the application:
+'''bash
+python login.py
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to CriminalOps, follow these steps:
+
+1. **Fork** the repository on GitHub.
+
+2. **Clone** your forked repository to your local development environment:
+
+```bash
+git clone https://github.com/yourusername/CriminalOps.git
 cd CriminalOps
 
 
-Install the required dependencies (Ensure you have Python and pip installed):
