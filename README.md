@@ -33,22 +33,25 @@ _Include screenshots of your website pages here_
 
 ```bash
 git clone https://github.com/yourusername/CriminalOps.git
-
-
+```
 
 2.Change to the project directory:
 
 ```bash
 cd CriminalOps
+```
 
 3.Install the required dependencies (Ensure you have Python and pip installed):
 
 '''bash
 pip install tkinter
+```
 '''bash
 pip install mysql-connector-python
-'''
+```
+'''bash
 pip install pillow
+```
 
 ## Usage
 
@@ -68,7 +71,7 @@ DB_NAME = "your_database_name"
 # Run the application:
 '''bash
 python login.py
-
+```
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to CriminalOps, follow these steps:
@@ -79,6 +82,9 @@ We welcome contributions from the community! If you'd like to contribute to Crim
 
 ```bash
 git clone https://github.com/yourusername/CriminalOps.git
+```
+```bash
 cd CriminalOps
+```
 
 
