@@ -43,15 +43,15 @@ cd CriminalOps
 
 3.Install the required dependencies (Ensure you have Python and pip installed):
 
-'''
+```
 pip install tkinter
 ```
 
-'''
+```
 pip install mysql-connector-python
 ```
 
-'''
+```
 pip install pillow
 ```
 
@@ -71,7 +71,7 @@ DB_NAME = "your_database_name"
 
 
 # Run the application:
-'''
+```
 python login.py
 ```
 ## Contributing
